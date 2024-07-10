@@ -1,0 +1,48 @@
+@media only screen and (min-width: 767px){
+.center-nav{
+    display: none;
+}
+}
+
+  /* ====  */
+@media (min-width: 1000px) {
+    header svg{
+        width: 200px;
+    }
+    header a.logo{
+        margin-right: 40px;
+        position: relative;
+        top:initial;
+        left: initial;
+        margin-left: initial;
+    }
+}
+
+
+@media (min-width: 1000px) {
+    .center-nav{
+        display:block;
+    }
+}
+
+
+@media (min-width: 1000px) {
+    .right-nav a{
+        display:inline-block;
+        padding: 0;
+        margin: 0 50px;
+    }
+}
+
+@media (min-width: 1000px) {
+    header svg{
+        width: 200px;
+    }
+    header a.logo{
+        margin-right: 40px;
+        position: relative;
+        top:initial;
+        left: initial;
+        margin-left: initial;
+    }
+}
